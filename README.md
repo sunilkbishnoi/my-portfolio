@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **Sunil Bishnoi — Portfolio**
 
 Cyber Enthusiast • Web Developer
@@ -52,8 +51,3 @@ I enjoy solving problems, building efficient systems, and learning new technolog
 **Made with ♥ by Sunil Bishnoi**
 
 ---
-
-=======
-# my-portfolio
-My personal portfolio website.
->>>>>>> db29d0640dd9b975e8fe9d9258fe41be7390e302
