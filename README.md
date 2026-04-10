@@ -7,9 +7,6 @@ Cyber Enthusiast • Web Developer
 
 ## **About Me**
 
-## **About Me**
-
-## **About Me**
 
 I’m Sunil Bishnoi, passionate about **cybersecurity**, **web development**, and **software engineering**.
 Skilled in OWASP Top 10, Kali Linux, Ethical Hacking, Java, Python, React, and Network Security.
